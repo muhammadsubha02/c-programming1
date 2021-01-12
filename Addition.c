@@ -1,15 +1,26 @@
 #include <stdio.h>
 // ดึง Library Input Output
 
-
 void main(){
-//ส่วน 2 ฟังค์ชันหลักของภาษาซี
+// ส่วนที่ 2 Function หลักของภาษา C คือ Fx main
 
-//------------คำสั่ง----------
-int num1, num2, total;
-//ประกาศตัวแปร 1 2 และคำตอบ
+// ---------------- คำสั่งโปรแกรมบวกเลข --------------------- //
+    int num1, num2, total;
+    // ประกาศตัวแปร num1, num2, total
 
-printf("value of num1 is");
-scanf("%d" ,&num);
-//----------สิ้นสุดโปรแกรม--------
+    printf("Value of num1 is : ");
+    scanf("%d",&num1);
+    printf("Value of num2 is : ");
+    scanf("%d",&num2);
+
+    total = num1 + num2;
+
+    printf("Total is : %d",total);
+
+    printf("muhammadsubha");
+     printf("subha");
+
+// ---------------- สิ้นสุดโปรแกรมบวกเลข -------------------- //
+
+
 }
