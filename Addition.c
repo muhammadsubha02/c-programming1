@@ -19,6 +19,7 @@ void main(){
 
     printf("muhammadsubha");
      printf("subha");
+     printf("ํyou and me");
 
 // ---------------- สิ้นสุดโปรแกรมบวกเลข -------------------- //
 
